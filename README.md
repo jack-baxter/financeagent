@@ -2,7 +2,7 @@
 
 langgraph-based agentic ai system for financial analysis with prompt chaining, routing, and self-optimization. implements react-style agents with memory persistence for investment research queries.
 
-built for AAI-520 group project, converted from colab notebook to modular local python for better deployment and sre practices.
+built for AAI-520 group project, converted from colab notebook to modular local python for better deployment practices.
 
 ## what it does
 
